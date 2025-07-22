@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou a Beatriz Lima ✨</h1>
 
 <p align="center">
-  💻 Estagiária em Engenharia de Software | 💡 Foco em Back-End <br>
+  💻 Desenvolvedora FullStack | 💡 Foco em Back-End <br>
   🎓 Estudante de Sistemas de Informação + MBA em Engenharia de Software (USP) <br>
   🚀 Explorando Go, TypeScript, Python, Docker & PostgreSQL <br>
   ☁️ AWS Certified Cloud Practitioner 
